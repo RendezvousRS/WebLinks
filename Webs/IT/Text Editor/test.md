@@ -89,3 +89,28 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 (… more content…)
 
 [A link to that custom anchor](#my-custom-anchor-point)
+
+This example\
+Will span two lines\
+sd
+
+<details>
+
+<summary>折叠教程第二个</summary>
+
+# asjdlk
+
+## salkjdlkasd
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
