@@ -72,3 +72,20 @@ Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+
+`rgb(9, 105, 218)`
+
+`#RRGGBB`
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+# Section Heading
+
+Some body text of this section.
+
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+
+[A link to that custom anchor](#my-custom-anchor-point)
