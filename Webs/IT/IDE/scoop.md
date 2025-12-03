@@ -19,3 +19,5 @@ irm get.scoop.sh | iex
 ```
 scoop --version
 ```
+
+scoop.sh
