@@ -1,4 +1,4 @@
-#scoop
+# scoop
 
 powershell（普通用户模式，非管理员模式打开）:
 
