@@ -1,3 +1,3 @@
 #Vim
 
-vim.com
+vim.org
